@@ -1,0 +1,39 @@
+ 
+body {
+	background-image: url(../images/back.png);
+	background-size: 100%;
+	margin: 0;
+	font-family: 'Montserrat' , sans-serif;
+
+	font-size: 15px;
+	line-height: 1.6;
+}
+
+.header {
+	height: 200px;
+	text-align: center;
+	font-style: italic;
+}
+
+.description {
+	text-align: center;
+	font-size: 22px;
+	font-style: italic ;
+}
+
+.content {
+	margin-inside: 20px;
+	margin-left: 480px;
+	text-align: left;
+	font-size: 20px;
+	width: 1000px;
+	font-style: italic;
+}
+
+.footer {
+	height: 200px;
+	text-align: right;
+	margin-right: 210px;
+	margin-top: 60px;
+	font-style: italic;
+}
