@@ -9,7 +9,7 @@ body {
 	line-height: 1.6;
 }
 
-.header {
+header {
 	height: 200px;
 	text-align: center;
 	font-style: italic;
@@ -30,7 +30,7 @@ body {
 	font-style: italic;
 }
 
-.footer {
+footer {
 	height: 200px;
 	text-align: right;
 	margin-right: 210px;
